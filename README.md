@@ -300,6 +300,3 @@ Generative AI
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=4000&pause=1000&color=6EE7FF&center=true&vCenter=true&width=800&lines=Transforming+Biological+Data+Into+Intelligent+Solutions"/>
 
 </div>
-
-
-
