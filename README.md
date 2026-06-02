@@ -1,27 +1,22 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=900&size=70&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=1200&height=100&lines=Tarulata+Priya"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=900&size=72&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=1200&height=100&lines=Tarulata+Priya"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=6EE7FF&center=true&vCenter=true&width=1200&lines=🧬+BIOTECHNOLOGY+×+ARTIFICIAL+INTELLIGENCE;💊+HEALTHCARE+TECHNOLOGY+BUILDER;🚀+RESEARCHER+|+ENGINEER+|+INNOVATOR"/>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=150&color=0:00F5FF,50:7C3AED,100:FF00AA&text=Where%20Biology%20Meets%20Intelligence&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
-
-<br><br>
-
-<!-- ADD YOUR PHOTO URL BELOW LATER -->
-<img src="YOUR_PHOTO_URL_HERE" width="180" style="border-radius:50%;" />
+<img src="YOUR_PHOTO_URL_HERE" width="180"/>
 
 <br><br>
 
 <a href="https://www.linkedin.com/in/tarulata-priya-051423313/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:tarulatapriya7@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
@@ -30,15 +25,9 @@
 
 <img src="https://img.shields.io/github/followers/Tarulatapriya?style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/stars/Tarulatapriya?affiliations=OWNER&style=for-the-badge"/>
-
 </div>
 
-<p align="center">
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-</p>
+---
 
 # ⚡ Digital Profile
 
@@ -60,11 +49,7 @@ Mission:
   Transforming biological data into intelligent solutions.
 ```
 
-<p align="center">
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-</p>
+---
 
 # 🌌 About Me
 
@@ -72,11 +57,7 @@ I am passionate about building intelligent systems at the intersection of Biotec
 
 My work focuses on leveraging Machine Learning, Data Science, and Cloud Technologies to solve real-world healthcare and life science challenges.
 
-<p align="center">
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-</p>
+---
 
 # 🚀 Featured Projects
 
@@ -136,50 +117,24 @@ Machine Learning model for predictive healthcare analytics.
 </tr>
 </table>
 
-<p align="center">
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-</p>
+---
 
 # 🛠 Technology Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python"/>&nbsp;
-<img src="https://skillicons.dev/icons?i=typescript"/>&nbsp;
-<img src="https://skillicons.dev/icons?i=javascript"/>&nbsp;
-<img src="https://skillicons.dev/icons?i=react"/>&nbsp;
-<img src="https://skillicons.dev/icons?i=nextjs"/>&nbsp;
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=tailwind"/>&nbsp;
-<img src="https://skillicons.dev/icons?i=html"/>&nbsp;
-<img src="https://skillicons.dev/icons?i=css"/>&nbsp;
-<img src="https://skillicons.dev/icons?i=mysql"/>&nbsp;
-<img src="https://skillicons.dev/icons?i=git"/>&nbsp;
-<img src="https://skillicons.dev/icons?i=github"/>&nbsp;
-<img src="https://skillicons.dev/icons?i=vscode"/>
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,nodejs,tailwind,html,css,mysql,git,github,vscode&perline=6"/>
 
 <br><br>
 
 <img src="https://img.shields.io/badge/AI_Research-111827?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Bioinformatics-111827?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Healthcare_Tech-111827?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Machine_Learning-111827?style=for-the-badge"/>
 
 </div>
 
-<p align="center">
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-</p>
+---
 
 # 🧠 AI & Research Interests
 
@@ -194,69 +149,51 @@ Predictive Analytics
 Generative AI
 ```
 
-<p align="center">
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-</p>
+---
 
 # 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tarulatapriya&show_icons=true&theme=github_dark&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tarulatapriya&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarulatapriya&layout=compact&theme=github_dark&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarulatapriya&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tarulatapriya&theme=tokyonight"/>
+
+<br><br>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tarulatapriya&theme=tokyonight"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tarulatapriya&theme=tokyonight"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tarulatapriya&theme=tokyonight"/>
 
 </div>
 
-<p align="center">
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-</p>
+---
 
 # 🔥 Contribution Streak
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tarulatapriya&theme=github-dark-blue&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tarulatapriya&theme=tokyonight&hide_border=true"/>
 
 </div>
 
-<p align="center">
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-</p>
-
-# 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Tarulatapriya&theme=algolia&no-frame=true&row=1&column=7"/>
-
-</div>
-
-<p align="center">
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-</p>
+---
 
 # 📈 Activity Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tarulatapriya&theme=react-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tarulatapriya&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
-<p align="center">
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-</p>
+---
 
 # 🌱 Currently Learning
 
@@ -267,11 +204,7 @@ Generative AI
 * Cloud Native Applications
 * Computational Biology
 
-<p align="center">
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-</p>
+---
 
 # 🎯 2026 Goals
 
@@ -287,16 +220,12 @@ Generative AI
 
 ✅ Create Technology with Real-World Impact
 
-<p align="center">
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-</p>
+---
 
 <div align="center">
 
-## 🚀 Where Biology Meets Intelligence
+### Exploring how intelligent systems can transform healthcare, research, and everyday life.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=4000&pause=1000&color=6EE7FF&center=true&vCenter=true&width=800&lines=Transforming+Biological+Data+Into+Intelligent+Solutions"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1000&color=6EE7FF&center=true&vCenter=true&width=900&lines=Biotechnology+%7C+Artificial+Intelligence+%7C+Innovation;Learning+and+Building+Every+Day;Turning+Ideas+Into+Impactful+Solutions"/>
 
 </div>
