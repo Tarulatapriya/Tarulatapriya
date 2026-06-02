@@ -1,16 +1,22 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,20,24,30&text=Tarulata%20Priya&fontSize=60&fontAlignY=35&animation=fadeIn&desc=Biotechnology%20×%20Artificial%20Intelligence%20×%20Healthcare%20Innovation&descAlignY=55"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00E7FF&center=true&vCenter=true&width=1000&lines=🧬+Biotechnology+Student;🤖+Machine+Learning+Explorer;💊+Building+Healthcare+AI+Solutions;🌐+Full+Stack+Developer;🚀+Future+Researcher+%26+Innovator"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=350&color=0:00F5FF,25:0066FF,50:7C3AED,75:FF00AA,100:00F5FF&text=Tarulata%20Priya&fontSize=70&fontColor=ffffff&animation=twinkling&stroke=ffffff&strokeWidth=1"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Tarulatapriya&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=32&duration=2000&pause=500&color=00F5FF&center=true&vCenter=true&multiline=true&width=1200&height=140&lines=🧬+BIOTECHNOLOGY+×+ARTIFICIAL+INTELLIGENCE;💊+HEALTHCARE+TECHNOLOGY+BUILDER;🚀+RESEARCHER+%7C+ENGINEER+%7C+INNOVATOR"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Tarulatapriya&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/Tarulatapriya?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/Tarulatapriya?affiliations=OWNER&style=for-the-badge"/>
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
 # ⚡ Digital Profile
 
@@ -32,17 +38,17 @@ Mission:
   Transforming biological data into intelligent solutions.
 ```
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
-## 🌌 About Me
+# 🌌 About Me
 
 I am passionate about building intelligent systems at the intersection of Biotechnology, Artificial Intelligence, and Software Engineering.
 
 My work focuses on leveraging Machine Learning, Data Science, and Cloud Technologies to solve real-world healthcare and life science challenges.
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 <table>
 <tr>
@@ -100,19 +106,29 @@ Machine Learning model for predictive healthcare analytics.
 </tr>
 </table>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
-## 🛠️ Technology Stack
+# 🛠 Technology Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,nodejs,tailwind,html,css,mysql,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,nodejs,tailwind,html,css,mysql,git,github,vscode&perline=6"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/AI-Research-00F5FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Bioinformatics-7C3AED?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Healthcare-Tech-FF00AA?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Machine-Learning-0066FF?style=for-the-badge"/>
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
-## 🧠 AI & Research Interests
+# 🧠 AI & Research Interests
 
 ```text
 Machine Learning
@@ -125,51 +141,51 @@ Predictive Analytics
 Generative AI
 ```
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tarulatapriya&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tarulatapriya&show_icons=true&theme=transparent&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarulatapriya&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarulatapriya&layout=compact&theme=transparent&hide_border=true"/>
 
-</p>
+</div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
-## 🔥 Contribution Streak
+# 🔥 Contribution Streak
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tarulatapriya&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tarulatapriya&theme=transparent&hide_border=true"/>
 
-</p>
+</div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
-## 🏆 Achievements
+# 🏆 Achievements
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Tarulatapriya&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Tarulatapriya&theme=algolia&no-frame=true&row=1&column=7"/>
 
-</p>
+</div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
-## 📈 Activity Graph
+# 📈 Activity Graph
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tarulatapriya&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tarulatapriya&theme=react-dark&hide_border=true"/>
 
-</p>
+</div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
-## 🌱 Currently Learning
+# 🌱 Currently Learning
 
 * Advanced Machine Learning
 * Large Language Models (LLMs)
@@ -178,9 +194,9 @@ Generative AI
 * Cloud Native Applications
 * Computational Biology
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
-## 🎯 2026 Goals
+# 🎯 2026 Goals
 
 ✅ Build Production-Level AI Systems
 
@@ -194,13 +210,14 @@ Generative AI
 
 ✅ Create Technology with Real-World Impact
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
 <div align="center">
 
-### 🚀 "Where Biology Meets Intelligence"
+## 🚀 Where Biology Meets Intelligence
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&section=footer&color=0:00F5FF,25:0066FF,50:7C3AED,75:FF00AA,100:00F5FF"/>
 
 </div>
+
 
