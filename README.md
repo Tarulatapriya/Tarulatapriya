@@ -6,7 +6,6 @@
 
 <br><br>
 
-<img src="YOUR_PHOTO_URL_HERE" width="180"/>
 
 <br><br>
 
