@@ -7,7 +7,7 @@
 
 <br><br>
 
-<img src="YOUR_PHOTO_URL_HERE" width="180"/>
+<img src=""C:\Users\tarul\Downloads\taruphoto.jpg"" width="180"/>
 
 <br><br>
 
