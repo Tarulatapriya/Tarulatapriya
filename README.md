@@ -1,3 +1,4 @@
+<img width="1080" height="957" alt="taruphoto" src="https://github.com/user-attachments/assets/93e426d6-7fab-4503-bcde-44e6c7f708b2" />
 
 <div align="center">
 
