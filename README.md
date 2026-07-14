@@ -1,12 +1,5 @@
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=900&size=72&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=1200&height=100&lines=Tarulata+Priya"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=6EE7FF&center=true&vCenter=true&width=1200&lines=🧬+BIOTECHNOLOGY+×+ARTIFICIAL+INTELLIGENCE;💊+HEALTHCARE+TECHNOLOGY+BUILDER;🚀+RESEARCHER+|+ENGINEER+|+INNOVATOR"/>
-
-<br><br>
-
-
+  
 <br><br>
 
 <a href="https://www.linkedin.com/in/tarulata-priya-051423313/">
